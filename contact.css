@@ -1,0 +1,28 @@
+.text-fields {
+  text-align: center;
+}
+
+.phone {
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.email {
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.title {
+  text-align: center;
+}
+
+.main-contact {
+  font-family: courier;
+}
+
+h3 {
+  text-align: center;
+  font-size: 18px;
+}
+
+
